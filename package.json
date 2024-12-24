@@ -1,0 +1,23 @@
+{
+  "name": "live_stream",
+  "version": "1.0.0",
+  "description": "landing page",
+  "source": "index.html",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch styles:dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deko539/landing_live_streaming.git"
+  },
+  "author": "Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deko539/landing_live_streaming/issues"
+  },
+  "homepage": "https://github.com/Deko539/landing_live_streaming#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "sass": "^1.83.0"
+  }
+}
